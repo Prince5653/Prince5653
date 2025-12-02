@@ -59,10 +59,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Building scalable full-stack apps with **MERN / Next.js**  
-- 🛠️ Comfortable with **Node.js, Express, MongoDB, PostgreSQL**  
-- 🚀 Learning and applying **Docker, GitHub Actions, CI/CD**  
-- 📍 Pune, India — Open to great opportunities & collaborations
+- 🔥 Full-Stack Developer with **11+ months experience**
+- ⚛️ React, Next.js, Node.js, Express  
+- 🗄️ MongoDB, PostgreSQL, MySQL  
+- 🐳 DevOps learner — Docker, GitHub Actions, CI/CD  
+- ☁️ Love building **scalable backend systems**  
+- ❤️ Passion for **clean architecture + real-world apps**
 
 ---
 
