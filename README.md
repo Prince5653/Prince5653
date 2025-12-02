@@ -63,21 +63,20 @@
 ### 🔥 **1. Full-Stack E-Commerce (MERN + Next.js)**
 - Authentication, admin panel, product management, payments  
 - Built with clean architecture + backend validations  
-🔗 *(Add repo link here)*
+  
 
 ---
 
 ### ⚡ **2. Realtime Chat App (Node + Socket.io + Redis)**  
 - Seen/unseen messages, online status, typing indicator  
 - Dockerized & scalable  
-🔗 *(Add repo link here)*
+  
 
 ---
 
 ### 📊 **3. Advanced Backend API (Node + PostgreSQL)**  
 - Authentication, RBAC, pagination, caching, logging  
 - Production-ready folder structure  
-🔗 *(Add repo link here)*
 
 ---
 
