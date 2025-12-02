@@ -19,7 +19,6 @@
 - 🗄️ Databases: **MongoDB, PostgreSQL, MySQL**
 - 🐳 Learning **DevOps** (Docker, CI/CD, GitHub Actions, Deployments)
 - ☁️ Strong interest in **cloud architecture + scalable backend systems**
-- 🎯 Goal: Join a top **Pune product company** with impactful projects
 
 ---
 
